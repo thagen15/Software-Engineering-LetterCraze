@@ -9,4 +9,7 @@ public class TestClass {
 	boolean tru(){
 		return true;
 	}
+	boolean fals(){
+		return false;
+	}
 }
