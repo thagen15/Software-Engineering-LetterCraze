@@ -11,7 +11,7 @@ public class TestClass {
 	}
 
 	boolean fal() {
-		if (this.kreygasm == 0) {
+		if (kreygasm == 0) {
 			return false;
 		} else {
 			return true;
