@@ -5,4 +5,8 @@ public class TestClass {
 	TestClass(int k) {
 		this.kreygasm = k;
 	}
+	
+	boolean tru(){
+		return true;
+	}
 }
