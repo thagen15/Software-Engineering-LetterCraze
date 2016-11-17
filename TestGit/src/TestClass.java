@@ -5,11 +5,16 @@ public class TestClass {
 	TestClass(int k) {
 		this.kreygasm = k;
 	}
-	
-	boolean tru(){
+
+	boolean tru() {
 		return true;
 	}
-	boolean fal(){
-		return false;
+
+	boolean fal() {
+		if (this.kreygasm == 0) {
+			return false;
+		} else {
+			return true;
+		}
 	}
 }
