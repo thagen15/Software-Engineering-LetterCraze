@@ -1,4 +1,6 @@
-package LetterCrazeWindowBuilder.views;
+package builder;
+
+
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;

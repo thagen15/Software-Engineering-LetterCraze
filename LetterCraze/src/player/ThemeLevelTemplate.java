@@ -1,4 +1,4 @@
-package LetterCrazeWindowBuilder.views;
+package player;
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
 
@@ -79,7 +79,7 @@ public class ThemeLevelTemplate extends JFrame {
 			public void actionPerformed(ActionEvent arg0) {
 			}
 		});
-		button.setIcon(new ImageIcon(LevelTemplate.class.getResource("/LetterCrazeWindowBuilder/resources/undo-4-xxl.gif")));
+		button.setIcon(new ImageIcon(LevelTemplate.class.getResource("/LetterCraze/images/undo-4-xxl.gif")));
 		button.setBounds(913, 127, 40, 40);
 		contentPane.add(button);
 		
@@ -280,22 +280,22 @@ public class ThemeLevelTemplate extends JFrame {
 		contentPane.add(btnA_1);
 		
 		JLabel label_2 = new JLabel("");
-		label_2.setIcon(new ImageIcon(ThemeLevelTemplate.class.getResource("/LetterCrazeWindowBuilder/resources/starlevel.png")));
+		label_2.setIcon(new ImageIcon(ThemeLevelTemplate.class.getResource("/LetterCraze/images/starlevel.png")));
 		label_2.setBounds(797, 217, 90, 90);
 		contentPane.add(label_2);
 		
 		JLabel label_3 = new JLabel("");
-		label_3.setIcon(new ImageIcon(ThemeLevelTemplate.class.getResource("/LetterCrazeWindowBuilder/resources/starlevel.png")));
+		label_3.setIcon(new ImageIcon(ThemeLevelTemplate.class.getResource("/LetterCraze/images/starlevel.png")));
 		label_3.setBounds(797, 302, 90, 90);
 		contentPane.add(label_3);
 		
 		JLabel label_4 = new JLabel("");
-		label_4.setIcon(new ImageIcon(ThemeLevelTemplate.class.getResource("/LetterCrazeWindowBuilder/resources/starlevel.png")));
+		label_4.setIcon(new ImageIcon(ThemeLevelTemplate.class.getResource("/LetterCraze/images/starlevel.png")));
 		label_4.setBounds(797, 387, 90, 90);
 		contentPane.add(label_4);
 		
 		JLabel label = new JLabel("");
-		label.setIcon(new ImageIcon(LevelTemplate.class.getResource("/LetterCrazeWindowBuilder/resources/Grid.gif")));
+		label.setIcon(new ImageIcon(LevelTemplate.class.getResource("/LetterCraze/images/Grid.gif")));
 		label.setBounds(392, 82, 400, 400);
 		contentPane.add(label);
 		
@@ -345,7 +345,7 @@ public class ThemeLevelTemplate extends JFrame {
 		contentPane.add(btnSubmitWord);
 		
 		JLabel label_1 = new JLabel("");
-		label_1.setIcon(new ImageIcon(LevelTemplate.class.getResource("/LetterCrazeWindowBuilder/resources/BackgroundBlank.gif")));
+		label_1.setIcon(new ImageIcon(LevelTemplate.class.getResource("/LetterCraze/images/BackgroundBlank.gif")));
 		label_1.setBounds(0, 0, 984, 531);
 		contentPane.add(label_1);
 		
