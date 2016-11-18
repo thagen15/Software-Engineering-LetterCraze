@@ -1,4 +1,4 @@
-package builder;
+package builder.view;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;

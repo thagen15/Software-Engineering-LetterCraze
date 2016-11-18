@@ -1,4 +1,4 @@
-package player;
+package player.view;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
