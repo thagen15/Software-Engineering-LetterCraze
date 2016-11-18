@@ -115,7 +115,7 @@ public class BuilderMenu extends JFrame {
 		contentPane.add(lblSelectTheType);
 		
 		JLabel label = new JLabel("");
-		label.setIcon(new ImageIcon(BuilderMenu.class.getResource("/LetterCrazeWindowBuilder/resources/BackgroundTitle.gif")));
+		label.setIcon(new ImageIcon(BuilderMenu.class.getResource("/LetterCraze/images/BackgroundTitle.gif")));
 		label.setBounds(0, 0, 994, 541);
 		contentPane.add(label);
 	}

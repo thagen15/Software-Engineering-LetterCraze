@@ -96,7 +96,7 @@ public class Menu extends JFrame {
 		contentPane.add(button);
 		
 		JLabel lblNewLabel = new JLabel("New label");
-		lblNewLabel.setIcon(new ImageIcon(Menu.class.getResource("/LetterCrazeWindowBuilder/resources/BackgroundTitle.gif")));
+		lblNewLabel.setIcon(new ImageIcon(Menu.class.getResource("/LetterCraze/images/BackgroundTitle.gif")));
 		lblNewLabel.setBounds(0, 0, 994, 541);
 		contentPane.add(lblNewLabel);
 	}
