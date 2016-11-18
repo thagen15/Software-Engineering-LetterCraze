@@ -76,62 +76,62 @@ public class LevelSelect extends JFrame {
 		contentPane.add(lblHigh);
 		
 		JLabel label_29 = new JLabel("");
-		label_29.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/lock.gif")));
+		label_29.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/lock.gif")));
 		label_29.setBounds(463, 277, 80, 80);
 		contentPane.add(label_29);
 		
 		JLabel label_16 = new JLabel("");
-		label_16.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/lock.gif")));
+		label_16.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/lock.gif")));
 		label_16.setBounds(667, 155, 80, 80);
 		contentPane.add(label_16);
 		
 		JLabel label_33 = new JLabel("");
-		label_33.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/lock.gif")));
+		label_33.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/lock.gif")));
 		label_33.setBounds(361, 403, 80, 80);
 		contentPane.add(label_33);
 		
 		JLabel label_17 = new JLabel("");
-		label_17.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/lock.gif")));
+		label_17.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/lock.gif")));
 		label_17.setBounds(259, 277, 80, 80);
 		contentPane.add(label_17);
 		
 		JLabel label_28 = new JLabel("");
-		label_28.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/imageslock.gif")));
+		label_28.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/lock.gif")));
 		label_28.setBounds(361, 277, 80, 80);
 		contentPane.add(label_28);
 		
 		JLabel label_35 = new JLabel("");
-		label_35.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/lock.gif")));
+		label_35.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/lock.gif")));
 		label_35.setBounds(565, 403, 80, 80);
 		contentPane.add(label_35);
 		
 		JLabel label_15 = new JLabel("");
-		label_15.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/lock.gif")));
+		label_15.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/lock.gif")));
 		label_15.setBounds(565, 155, 80, 80);
 		contentPane.add(label_15);
 		
 		JLabel label_32 = new JLabel("");
-		label_32.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/lock.gif")));
+		label_32.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/lock.gif")));
 		label_32.setBounds(259, 403, 80, 80);
 		contentPane.add(label_32);
 		
 		JLabel label_36 = new JLabel("");
-		label_36.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/lock.gif")));
+		label_36.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/lock.gif")));
 		label_36.setBounds(667, 403, 80, 80);
 		contentPane.add(label_36);
 		
 		JLabel label_30 = new JLabel("");
-		label_30.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/lock.gif")));
+		label_30.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/lock.gif")));
 		label_30.setBounds(565, 277, 80, 80);
 		contentPane.add(label_30);
 		
 		JLabel label_34 = new JLabel("");
-		label_34.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/lock.gif")));
+		label_34.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/lock.gif")));
 		label_34.setBounds(463, 403, 80, 80);
 		contentPane.add(label_34);
 		
 		JLabel label_31 = new JLabel("");
-		label_31.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/lock.gif")));
+		label_31.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/lock.gif")));
 		label_31.setBounds(667, 277, 80, 80);
 		contentPane.add(label_31);
 		
@@ -232,90 +232,90 @@ public class LevelSelect extends JFrame {
 		*/
 		
 		JLabel lblNewLabel_1 = new JLabel("");
-		lblNewLabel_1.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/twoStars.gif")));
+		lblNewLabel_1.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/twoStars.gif")));
 		lblNewLabel_1.setBounds(259, 234, 80, 30);
 		contentPane.add(lblNewLabel_1);
 		
 		JLabel label = new JLabel("");
-		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/Stars.gif")));
+		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/Stars.gif")));
 		label.setBounds(361, 234, 80, 30);
 		contentPane.add(label);
 		
 		JLabel label_1 = new JLabel("");
-		label_1.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/oneStars.gif")));
-		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/Stars.gif")));
+		label_1.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/oneStars.gif")));
+		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/Stars.gif")));
 		label_1.setBounds(463, 234, 80, 30);
 		contentPane.add(label_1);
 		
 		JLabel label_2 = new JLabel("");
-		label_2.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/StarsBlank.gif")));
-		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/Stars.gif")));
+		label_2.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/StarsBlank.gif")));
+		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/Stars.gif")));
 		label_2.setBounds(565, 234, 80, 30);
 		contentPane.add(label_2);
 		
 		JLabel label_3 = new JLabel("");
-		label_3.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/StarsBlank.gif")));
-		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/Stars.gif")));
+		label_3.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/StarsBlank.gif")));
+		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/Stars.gif")));
 		label_3.setBounds(667, 234, 80, 30);
 		contentPane.add(label_3);
 		
 		JLabel label_4 = new JLabel("");
-		label_4.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/StarsBlank.gif")));
-		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/Stars.gif")));
+		label_4.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/StarsBlank.gif")));
+		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/Stars.gif")));
 		label_4.setBounds(259, 356, 80, 30);
 		contentPane.add(label_4);
 		
 		JLabel label_5 = new JLabel("");
-		label_5.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/StarsBlank.gif")));
-		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/Stars.gif")));
+		label_5.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/StarsBlank.gif")));
+		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/Stars.gif")));
 		label_5.setBounds(361, 356, 80, 30);
 		contentPane.add(label_5);
 		
 		JLabel label_6 = new JLabel("");
-		label_6.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/StarsBlank.gif")));
-		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/Stars.gif")));
+		label_6.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/StarsBlank.gif")));
+		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/Stars.gif")));
 		label_6.setBounds(463, 356, 80, 30);
 		contentPane.add(label_6);
 		
 		JLabel label_7 = new JLabel("");
-		label_7.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/StarsBlank.gif")));
-		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/Stars.gif")));
+		label_7.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/StarsBlank.gif")));
+		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/Stars.gif")));
 		label_7.setBounds(565, 356, 80, 30);
 		contentPane.add(label_7);
 		
 		JLabel label_8 = new JLabel("");
-		label_8.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/StarsBlank.gif")));
-		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/Stars.gif")));
+		label_8.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/StarsBlank.gif")));
+		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/Stars.gif")));
 		label_8.setBounds(667, 356, 80, 30);
 		contentPane.add(label_8);
 		
 		JLabel label_9 = new JLabel("");
-		label_9.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/StarsBlank.gif")));
-		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/Stars.gif")));
+		label_9.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/StarsBlank.gif")));
+		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/Stars.gif")));
 		label_9.setBounds(259, 482, 80, 30);
 		contentPane.add(label_9);
 		
 		JLabel label_10 = new JLabel("");
-		label_10.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/StarsBlank.gif")));
-		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/Stars.gif")));
+		label_10.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/StarsBlank.gif")));
+		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/Stars.gif")));
 		label_10.setBounds(361, 482, 80, 30);
 		contentPane.add(label_10);
 		
 		JLabel label_11 = new JLabel("");
-		label_11.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/StarsBlank.gif")));
-		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/Stars.gif")));
+		label_11.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/StarsBlank.gif")));
+		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/Stars.gif")));
 		label_11.setBounds(463, 482, 80, 30);
 		contentPane.add(label_11);
 		
 		JLabel label_12 = new JLabel("");
-		label_12.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/StarsBlank.gif")));
-		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/Stars.gif")));
+		label_12.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/StarsBlank.gif")));
+		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/Stars.gif")));
 		label_12.setBounds(565, 482, 80, 30);
 		contentPane.add(label_12);
 		
 		JLabel label_13 = new JLabel("");
-		label_13.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/StarsBlank.gif")));
-		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/Stars.gif")));
+		label_13.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/StarsBlank.gif")));
+		label.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/Stars.gif")));
 		label_13.setBounds(667, 482, 80, 30);
 		contentPane.add(label_13);
 		
@@ -324,7 +324,7 @@ public class LevelSelect extends JFrame {
 		contentPane.add(btnCustomLevel);
 		
 		JLabel lblNewLabel = new JLabel("New label");
-		lblNewLabel.setIcon(new ImageIcon(LevelSelect.class.getResource("/LetterCraze/images/BackgroundTitle.gif")));
+		lblNewLabel.setIcon(new ImageIcon(LevelSelect.class.getResource("/images/BackgroundTitle.gif")));
 		lblNewLabel.setBounds(0, 0, 994, 531);
 		contentPane.add(lblNewLabel);
 		

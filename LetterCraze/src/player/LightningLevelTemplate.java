@@ -78,17 +78,17 @@ public class LightningLevelTemplate extends JFrame {
 		
 		JLabel label_3 = new JLabel("");
 		label_3.setBounds(797, 217, 90, 90);
-		label_3.setIcon(new ImageIcon(ThemeLevelTemplate.class.getResource("/LetterCraze/images/starlevel.png")));
+		label_3.setIcon(new ImageIcon(ThemeLevelTemplate.class.getResource("/images/starlevel.png")));
 		contentPane.add(label_3);
 		
 		JLabel label_4 = new JLabel("");
 		label_4.setBounds(797, 302, 90, 90);
-		label_4.setIcon(new ImageIcon(ThemeLevelTemplate.class.getResource("/LetterCraze/images/starlevel.png")));
+		label_4.setIcon(new ImageIcon(ThemeLevelTemplate.class.getResource("/images/starlevel.png")));
 		contentPane.add(label_4);
 		
 		JLabel label_5 = new JLabel("");
 		label_5.setBounds(797, 387, 90, 90);
-		label_5.setIcon(new ImageIcon(ThemeLevelTemplate.class.getResource("/LetterCraze/images/starlevel.png")));
+		label_5.setIcon(new ImageIcon(ThemeLevelTemplate.class.getResource("/images/starlevel.png")));
 		contentPane.add(label_5);
 		
 		
@@ -250,7 +250,7 @@ public class LightningLevelTemplate extends JFrame {
 		
 		JLabel label = new JLabel("");
 		label.setBounds(392, 82, 400, 400);
-		label.setIcon(new ImageIcon(LevelTemplate.class.getResource("/LetterCraze/images/Grid.gif")));
+		label.setIcon(new ImageIcon(LevelTemplate.class.getResource("/images/Grid.gif")));
 		contentPane.add(label);
 		
 		JLabel lblPuzzle = new JLabel("Lightning");
@@ -300,7 +300,7 @@ public class LightningLevelTemplate extends JFrame {
 		
 		JLabel label_1 = new JLabel("");
 		label_1.setBounds(0, 0, 984, 531);
-		label_1.setIcon(new ImageIcon(LevelTemplate.class.getResource("/LetterCraze/images/BackgroundBlank.gif")));
+		label_1.setIcon(new ImageIcon(LevelTemplate.class.getResource("/images/BackgroundBlank.gif")));
 		contentPane.add(label_1);
 		
 	}

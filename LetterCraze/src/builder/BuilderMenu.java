@@ -1,13 +1,13 @@
 package builder;
 
-
-
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
+
+
 import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.ImageIcon;
@@ -56,6 +56,7 @@ public class BuilderMenu extends JFrame {
 			public void actionPerformed(ActionEvent arg0) {
 				PuzzleBuilder frame = new PuzzleBuilder();
 				frame.setVisible(true);
+				dispose();
 			}
 		});
 		btnPuzzle.setFont(new Font("Tahoma", Font.BOLD, 11));
@@ -115,7 +116,7 @@ public class BuilderMenu extends JFrame {
 		contentPane.add(lblSelectTheType);
 		
 		JLabel label = new JLabel("");
-		label.setIcon(new ImageIcon(BuilderMenu.class.getResource("/LetterCraze/images/BackgroundTitle.gif")));
+		label.setIcon(new ImageIcon(BuilderMenu.class.getResource("/images/BackgroundTitle.gif")));
 		label.setBounds(0, 0, 994, 541);
 		contentPane.add(label);
 	}

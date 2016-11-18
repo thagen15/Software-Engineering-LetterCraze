@@ -231,7 +231,7 @@ public class LightningBuilder extends JFrame {
 		contentPane.add(lblLevelTypeLightning);
 		
 		JLabel label_1 = new JLabel("");
-		label_1.setIcon(new ImageIcon(PuzzleBuilder.class.getResource("/LetterCraze/images/Grid.gif")));
+		label_1.setIcon(new ImageIcon(PuzzleBuilder.class.getResource("/images/Grid.gif")));
 		label_1.setBounds(530, 86, 400, 400);
 		contentPane.add(label_1);
 		
@@ -258,7 +258,7 @@ public class LightningBuilder extends JFrame {
 		contentPane.add(btnPreview);
 		
 		JLabel label = new JLabel("");
-		label.setIcon(new ImageIcon(LightningBuilder.class.getResource("/LetterCraze/images/BackgroundBlank.gif")));
+		label.setIcon(new ImageIcon(LightningBuilder.class.getResource("/images/BackgroundBlank.gif")));
 		label.setBounds(0, 0, 994, 541);
 		contentPane.add(label);
 	}
