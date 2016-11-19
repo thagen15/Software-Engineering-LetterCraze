@@ -81,7 +81,7 @@ public class Menu extends JFrame {
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
 		
-		btnNewButton = new JButton("Level Select");
+		btnNewButton = new JButton("Level Select - Blah Blah");
 		btnNewButton.setFont(new Font("Tahoma", Font.PLAIN, 14));
 		btnNewButton.setBounds(326, 175, 355, 61);
 		contentPane.add(btnNewButton);
