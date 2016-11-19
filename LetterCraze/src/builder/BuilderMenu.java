@@ -22,6 +22,15 @@ import javax.swing.JList;
 import javax.swing.AbstractListModel;
 
 public class BuilderMenu extends JFrame {
+<<<<<<< HEAD
+=======
+	
+	//Hannah was here! Hi
+<<<<<<< HEAD
+	//testing commit from laptop
+>>>>>>> origin/master
+=======
+>>>>>>> origin/master
 
 	private JPanel contentPane;
 
