@@ -113,7 +113,7 @@ public class BuilderMenu extends JFrame {
 		lblLevelBuilder.setBounds(305, 136, 389, 43);
 		contentPane.add(lblLevelBuilder);
 		
-		JLabel lblSelectTheType = new JLabel("Select the type of level you would like to create:");
+		JLabel lblSelectTheType = new JLabel("Please select the type of level you would like to create:");
 		lblSelectTheType.setFont(new Font("Tahoma", Font.PLAIN, 13));
 		lblSelectTheType.setHorizontalAlignment(SwingConstants.CENTER);
 		lblSelectTheType.setBounds(186, 202, 294, 14);

@@ -239,7 +239,7 @@ public class LightningBuilder extends JFrame {
 		btnNewButton.setBounds(10, 167, 95, 23);
 		contentPane.add(btnNewButton);
 		
-		JLabel lblTime = new JLabel("Timer");
+		JLabel lblTime = new JLabel("Timer:");
 		lblTime.setBounds(172, 129, 37, 14);
 		contentPane.add(lblTime);
 		
