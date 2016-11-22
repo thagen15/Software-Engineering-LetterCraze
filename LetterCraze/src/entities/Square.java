@@ -16,6 +16,10 @@ public class Square {
 	}
 
 	public boolean isActive() {
-		return true;
+		if (contents != null)
+			return true;
+		else
+			return false;
 	}
+
 }
