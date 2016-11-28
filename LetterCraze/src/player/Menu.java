@@ -73,7 +73,7 @@ public class Menu extends JFrame {
 
 	private void initComponents() {
 		setResizable(false);
-		setTitle("Letter Craze");
+		setTitle("Letter Craze TOM");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 1000, 570);
 		contentPane = new JPanel();
